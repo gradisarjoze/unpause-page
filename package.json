@@ -1,0 +1,9 @@
+{
+  "name": "unpause-page",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test seo/publicUrl.test.mjs",
+    "check:seo": "node seo/check-html.mjs"
+  }
+}
